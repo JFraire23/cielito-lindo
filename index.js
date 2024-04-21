@@ -818,7 +818,7 @@ const platillos = [
 			nombre: "WAFFLES",
 			id: "waffles"	
 		},
-		precio: 50
+		precio: 55
 	},
 
 	{
@@ -1159,8 +1159,8 @@ const platillos = [
 		titulo3: "te",
 		titulo4: "",
 		titulo5: "",
-		imagen: "./imagenes/desayunos/imagenes-tamaño/desayuno-ranchero-a.jpeg", /*ruta de la imagen*/
-		contenido: "",
+		imagen: "./imagenes/desayunos/imagenes-tamaño/te-manzana.jpg", /*ruta de la imagen*/
+		contenido: "Té de Manzana con Licor del 43",
 		cocina: "cielito lindo",
 		categoria: {
 			nombre: "TÉ",
